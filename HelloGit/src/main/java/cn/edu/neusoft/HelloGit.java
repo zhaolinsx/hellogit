@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("在线编辑");
         System.out.println("刚刚在线编辑");
         System.out.println("正在编辑");
+        System.out.println("克隆者正在编辑");
     }
 }
